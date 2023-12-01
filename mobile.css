@@ -1,0 +1,36 @@
+.nav-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    background-color: #161A30;
+}
+
+.nav-bar-links {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav-bar-links li {
+    padding: 1.3rem;
+}
+
+.icon {
+    display: block;
+}
+
+.hero {
+    height: 80vh;
+}
+
+.hero .content h1 {
+    font-size: 1.8rem;
+}
+
+.products {
+    grid-template-columns: repeat(1, 1fr);
+}
