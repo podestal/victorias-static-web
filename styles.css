@@ -13,6 +13,26 @@ body {
 
 /* Header */
 
+.hero-text {
+    font-size: 2rem;
+    color: #fff;
+    margin:0;
+    padding:0;
+    position:absolute;
+  }
+  
+.hero-html {
+display: flex;
+justify-content:center;
+align-items:center;
+height: 100vh;
+}
+
+.hero-html .hero-img{
+    width: 100vw;
+    height: 100vh;
+}
+
 .icon {
     display: none;
     text-decoration: none;
