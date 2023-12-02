@@ -13,7 +13,7 @@ body {
 
 /* Header */
 
-.hero-text {
+/* .hero-text {
     font-size: 2rem;
     color: #fff;
     margin:0;
@@ -31,7 +31,7 @@ height: 100vh;
 .hero-html .hero-img{
     width: 100vw;
     height: 100vh;
-}
+} */
 
 .icon {
     display: none;
@@ -80,32 +80,31 @@ height: 100vh;
     color: #B6BBC4;
 }
 
-/* .hero-everything {
-    background: url("/img/everything.jpg") no-repeat center center/cover;
+.hero-everything {
+    background: url("./img/everything.jpg") no-repeat center center/cover;
 }
 
 .hero-lenceria {
-    background: url("/img/lenceria.png") no-repeat center center/cover;
+    background: url("./img/lenceria.png") no-repeat center center/cover;
 }
 
 .hero-clothes {
-    background: url("/img/clothes.jpg") no-repeat center center/cover;
+    background: url("./img/clothes.jpg") no-repeat center center/cover;
 }
 
 .hero-accesories {
-    background: url("/img/accesories.jpg") no-repeat center center/cover;
+    background: url("./img/accesories.jpg") no-repeat center center/cover;
 }
 
 .hero-perfumes {
-    background: url("/img/perfumes.jpg") no-repeat center center/cover;
+    background: url("./img/perfumes.jpg") no-repeat center center/cover;
 }
 
 .hero-para-ellos {
-    background: url("/img/para-ellos.jpg") no-repeat center center/cover;
-} */
+    background: url("./img/para-ellos.jpg") no-repeat center center/cover;
+}
 
 .hero {
-    background: url("/img/lenceria.png") no-repeat center center/cover;
     height: 90vh;
     position: relative;
 }
